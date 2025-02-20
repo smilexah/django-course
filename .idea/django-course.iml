@@ -10,11 +10,9 @@
   <component name="TemplatesService">
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/Exercise1.05/bookr/reviews/templates" />
-        <option value="$MODULE_DIR$/Exercise1.06/bookr/reviews/templates" />
-        <option value="$MODULE_DIR$/Exercise1.07/bookr/reviews/templates" />
-        <option value="$MODULE_DIR$/Exercise1.08/bookr/reviews/templates" />
-        <option value="$MODULE_DIR$/Activity1.01/bookr/reviews/templates" />
+        <option value="$MODULE_DIR$/Chapter3/Exercise3.01/bookr/reviews/templates" />
+        <option value="$MODULE_DIR$/Chapter3/Exercise3.03/bookr/reviews/templates" />
+        <option value="$MODULE_DIR$/Chapter3/Exercise3.04/bookr/templates" />
       </list>
     </option>
   </component>
